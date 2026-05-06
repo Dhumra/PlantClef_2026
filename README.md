@@ -25,9 +25,9 @@ Our contributions on top of these baselines:
 | ------------------------- | ----------- | ------------- | -------------- | ----- | ---------- |
 | Paper 1 (reference)       | max         | —             | —              | —     | 0.3523     |
 | Paper 2 (reference)       | mean        | region-3      | 1.0            | —     | 0.3160     |
-| Ours (JPEG + multi-scale) | max         | region-3      | 0.5            | 9     | **0.3741** |
-| Ours (JPEG + multi-scale) | max         | per-region-13 | 0.5            | 9     | **0.3806** |
-| Ours (JPEG + multi-scale) | mean        | per-region-13 | 1.0            | 3     | 0.3590     |
+| Ours (JPEG + multi-scale) | max         | region-3      | 0.5            | 3     | **0.3741** |
+| Ours (JPEG + multi-scale) | max         | per-region-13 | 0.5            | 3     | **0.3806** |
+| Ours (JPEG + multi-scale) | mean        | region-3      | 1.0            | 3     | 0.36657     |
 
 ---
 
